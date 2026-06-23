@@ -1,1 +1,4 @@
+require(16662837893).AddRocky("name") -- rocky2u slop admin
+require(0x560680b51f24)({Silent = true}) -- silent version of vecxo admin 
+require(0x560680b51f24)({Silent = false}) or require(0x560680b51f24)() -- public version of vecxo admin
 
